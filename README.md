@@ -1,2 +1,2 @@
 # QA_Professional
-My_QAcareer
+My_Projects
